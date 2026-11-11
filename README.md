@@ -1,4 +1,4 @@
-# 🚀 Prompt2Site
+# Prompt2Site
 
 Describe a website or app in plain English. Prompt2Site gives you the code, a live preview, and a deployed site.
 
